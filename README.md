@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 ## Authors
-- Giocerz
+- Giovanni Caicedo (Giocerz)
 - Andres Gonzales
 - Stefania Velez
 - Manuel Varon
