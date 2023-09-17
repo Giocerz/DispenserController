@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 ### Arduino code
 - Use the code that is in <a href='https://github.com/Giocerz/DispenserController/blob/main/Arduino/CONTROLADOR_DISPENSADOR/CONTROLADOR_DISPENSADOR.ino'>controlador.ino</a> in arduino IDE and upload your sketch in your Arduino board. Modify according to your requeriments.
-- Remember install <a href='https://github.com/bogde/HX711'>HX711 library</a>
+- Please install <a href='https://github.com/bogde/HX711'>HX711 library</a>
 
 ### Components in this project
 
