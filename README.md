@@ -5,7 +5,7 @@ The project is about a digital controller for a sugar dispenser which uses a ser
 - Arduino.
 
 ## Use
-### Python run
+### Python
 - First clone this project and type the following in a terminal in the project directory:
 ```
 virtualenv env
