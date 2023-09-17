@@ -18,7 +18,7 @@ void setup() {
   servoMotor.attach(9);
   servoMotor.write(0);
   balanza.begin(DOUT, CLK);
-  balanza.set_scale(2122.12508); // Establecemos la escala
+  balanza.set_scale(2122.12508);
 }
 
 void loop() {
